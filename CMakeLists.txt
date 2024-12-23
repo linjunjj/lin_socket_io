@@ -49,14 +49,8 @@ set(SrcLists
 	${PROJECT_SOURCE_DIR}/utils/varint.cpp
 	${PROJECT_SOURCE_DIR}/utils/date_time.h
 	${PROJECT_SOURCE_DIR}/utils/date_time.cpp
-	${PROJECT_SOURCE_DIR}/utils/url_parser.h
-	${PROJECT_SOURCE_DIR}/utils/url_parser.cpp
-	${PROJECT_SOURCE_DIR}/utils/disk_helper.h
-	${PROJECT_SOURCE_DIR}/utils/disk_helper.cpp
 	${PROJECT_SOURCE_DIR}/utils/base64.h
 	${PROJECT_SOURCE_DIR}/utils/base64.cpp
-	${PROJECT_SOURCE_DIR}/utils/sha1.h
-	${PROJECT_SOURCE_DIR}/utils/sha1.cpp
 
 )
 
